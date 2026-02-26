@@ -1,0 +1,4 @@
+{gh repo clone topjohnwu/Magisk}
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
